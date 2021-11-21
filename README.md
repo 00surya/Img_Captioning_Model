@@ -18,5 +18,5 @@ model_weights
   - 2048_img_model.h5, model_9.h5 - https://www.dropbox.com/sh/n9m8mxd2aojrnac/AAD-7B2pdQzLIA39tP1ToSVoa?dl=0
   
 
-# Django Implementation
+# Django Model
   - https://github.com/snehill/Image_Captioning_Django_Implimentation.git
