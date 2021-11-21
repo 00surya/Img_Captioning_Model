@@ -1,11 +1,11 @@
 # Directory conventions
 
 
-- Images         --
-                    |--- extract these file from  fliker8k dataset
-- captions.txt   --
+- Images       
+               
+- captions.txt 
 
 
-- idx_to_word.pkl --
-                    | ---- preproce
-- word_to_idx.pkl --
+- idx_to_word.pkl 
+                  
+- word_to_idx.pkl 
