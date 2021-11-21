@@ -1,3 +1,9 @@
+# Image Captioning Model
+
+** it describes scene using text**
+
+## DataSet
+
 glove.6B - https://nlp.stanford.edu/data/glove.6B.zip
 
 Data
