@@ -8,9 +8,9 @@ glove.6B - https://nlp.stanford.edu/data/glove.6B.zip
 
 Data
 
-  - flicker 8k dataset(images and descriptions) -> https://www.kaggle.com/adityajn105/flickr8k/download
+  - flicker 8k dataset(images and descriptions) - \n https://www.kaggle.com/adityajn105/flickr8k/download
   
-  - encode_test_feature.pkl, encode_test_feature.pkl, idx_to_word.pkl, word_to_idx.pkl -> https://www.dropbox.com/sh/az6ii75fwxgr4sg/AAChRB_q_0OvmVmfPgyR6Dima?dl=0
+  - encode_test_feature.pkl, encode_test_feature.pkl, idx_to_word.pkl, word_to_idx.pkl - https://www.dropbox.com/sh/az6ii75fwxgr4sg/AAChRB_q_0OvmVmfPgyR6Dima?dl=0
   
 
 model_weights
