@@ -20,3 +20,6 @@ model_weights
 
 # Django Model
   - https://github.com/snehill/Image_Captioning_Django_Implimentation.git
+
+
+for more you can check out this blog "Image Captioning with Keras" by *Harshall Lamba* on medium - https://towardsdatascience.com/image-captioning-with-keras-teaching-computers-to-describe-pictures-c88a46a311b8
